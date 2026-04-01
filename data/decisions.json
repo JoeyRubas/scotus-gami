@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T04:28:31Z",
+  "last_updated": "2026-04-01T04:34:15Z",
   "stats": {
     "total_cases": 216,
     "unique_dissent_coalitions": 41,
@@ -4669,7 +4669,7 @@
       "first_date": "2024-06-27",
       "first_docket": "23-124",
       "count": 1,
-      "is_new": true
+      "is_new": false
     },
     "Barrett,KBJ,Kagan,Sotomayor": {
       "dissenters": [
@@ -4682,7 +4682,7 @@
       "first_date": "2024-06-27",
       "first_docket": "23A349",
       "count": 1,
-      "is_new": true
+      "is_new": false
     },
     "Alito,KBJ,Kavanaugh": {
       "dissenters": [
@@ -4694,7 +4694,7 @@
       "first_date": "2024-06-21",
       "first_docket": "23-370",
       "count": 1,
-      "is_new": true
+      "is_new": false
     },
     "Gorsuch,Thomas": {
       "dissenters": [
@@ -4705,7 +4705,7 @@
       "first_date": "2024-06-20",
       "first_docket": "22-800",
       "count": 1,
-      "is_new": true
+      "is_new": false
     },
     "Alito,Barrett,Kavanaugh,Thomas": {
       "dissenters": [
@@ -4718,7 +4718,7 @@
       "first_date": "2024-06-06",
       "first_docket": "23-250",
       "count": 1,
-      "is_new": true
+      "is_new": false
     },
     "Gorsuch,KBJ,Kagan": {
       "dissenters": [
@@ -4730,7 +4730,7 @@
       "first_date": "2024-05-23",
       "first_docket": "22-6389",
       "count": 1,
-      "is_new": true
+      "is_new": false
     },
     "Gorsuch,KBJ,Sotomayor": {
       "dissenters": [
@@ -4742,7 +4742,7 @@
       "first_date": "2024-03-15",
       "first_docket": "22-340",
       "count": 1,
-      "is_new": true
+      "is_new": false
     },
     "Barrett,Kagan,Kavanaugh,Roberts": {
       "dissenters": [
@@ -4755,7 +4755,7 @@
       "first_date": "2023-06-27",
       "first_docket": "21-1168",
       "count": 1,
-      "is_new": true
+      "is_new": false
     },
     "Barrett,Thomas": {
       "dissenters": [
@@ -4766,7 +4766,7 @@
       "first_date": "2023-06-27",
       "first_docket": "22-138",
       "count": 1,
-      "is_new": true
+      "is_new": false
     },
     "KBJ,Sotomayor": {
       "dissenters": [
@@ -4777,7 +4777,7 @@
       "first_date": "2023-06-23",
       "first_docket": "22-179",
       "count": 3,
-      "is_new": true
+      "is_new": false
     },
     "KBJ,Kagan,Sotomayor,Thomas": {
       "dissenters": [
@@ -4790,7 +4790,7 @@
       "first_date": "2023-06-23",
       "first_docket": "22-105",
       "count": 1,
-      "is_new": true
+      "is_new": false
     },
     "Gorsuch,KBJ,Kagan,Sotomayor": {
       "dissenters": [
@@ -4803,7 +4803,7 @@
       "first_date": "2023-06-22",
       "first_docket": "21-1484",
       "count": 3,
-      "is_new": true
+      "is_new": false
     },
     "KBJ": {
       "dissenters": [
@@ -4813,7 +4813,7 @@
       "first_date": "2023-06-01",
       "first_docket": "21-1449",
       "count": 2,
-      "is_new": true
+      "is_new": false
     },
     "KBJ,Kagan,Kavanaugh,Sotomayor": {
       "dissenters": [
@@ -4826,7 +4826,7 @@
       "first_date": "2023-05-25",
       "first_docket": "21-454",
       "count": 1,
-      "is_new": true
+      "is_new": false
     },
     "Kagan,Roberts": {
       "dissenters": [
@@ -4837,7 +4837,7 @@
       "first_date": "2023-05-18",
       "first_docket": "21-869",
       "count": 1,
-      "is_new": true
+      "is_new": false
     },
     "Alito,KBJ,Kavanaugh,Roberts": {
       "dissenters": [
@@ -4850,7 +4850,7 @@
       "first_date": "2023-05-11",
       "first_docket": "21-468",
       "count": 1,
-      "is_new": true
+      "is_new": false
     },
     "Barrett,Kagan,Sotomayor,Thomas": {
       "dissenters": [
@@ -4863,7 +4863,7 @@
       "first_date": "2023-02-28",
       "first_docket": "21-1195",
       "count": 1,
-      "is_new": true
+      "is_new": false
     },
     "Alito,Gorsuch,Kavanaugh": {
       "dissenters": [
@@ -4875,7 +4875,7 @@
       "first_date": "2023-02-22",
       "first_docket": "21-984",
       "count": 1,
-      "is_new": true
+      "is_new": false
     },
     "Gorsuch,Kagan,Sotomayor": {
       "dissenters": [
@@ -4887,7 +4887,7 @@
       "first_date": "2022-05-16",
       "first_docket": "20-979",
       "count": 3,
-      "is_new": true
+      "is_new": false
     },
     "Barrett,Gorsuch,Thomas": {
       "dissenters": [
@@ -4899,7 +4899,7 @@
       "first_date": "2022-04-21",
       "first_docket": "20-1029",
       "count": 2,
-      "is_new": true
+      "is_new": false
     },
     "Gorsuch,Sotomayor": {
       "dissenters": [
@@ -4910,7 +4910,7 @@
       "first_date": "2022-03-03",
       "first_docket": "20-827",
       "count": 1,
-      "is_new": true
+      "is_new": false
     },
     "Gorsuch": {
       "dissenters": [
@@ -4920,7 +4920,7 @@
       "first_date": "2022-01-13",
       "first_docket": "20-480",
       "count": 2,
-      "is_new": true
+      "is_new": false
     },
     "Barrett,Gorsuch,Kagan,Thomas": {
       "dissenters": [
@@ -4933,7 +4933,7 @@
       "first_date": "2021-06-29",
       "first_docket": "19-1039",
       "count": 1,
-      "is_new": true
+      "is_new": false
     },
     "Barrett,Kagan,Sotomayor": {
       "dissenters": [
@@ -4945,7 +4945,7 @@
       "first_date": "2021-06-25",
       "first_docket": "20-472",
       "count": 2,
-      "is_new": true
+      "is_new": false
     },
     "Gorsuch,Kagan,Thomas": {
       "dissenters": [
@@ -4957,7 +4957,7 @@
       "first_date": "2021-06-25",
       "first_docket": "20-543",
       "count": 1,
-      "is_new": true
+      "is_new": false
     },
     "Thomas": {
       "dissenters": [
@@ -4967,7 +4967,7 @@
       "first_date": "2021-06-23",
       "first_docket": "20-255",
       "count": 7,
-      "is_new": true
+      "is_new": false
     },
     "Kagan,Sotomayor,Thomas": {
       "dissenters": [
@@ -4979,7 +4979,7 @@
       "first_date": "2021-06-21",
       "first_docket": "19-1434",
       "count": 2,
-      "is_new": true
+      "is_new": false
     },
     "Alito": {
       "dissenters": [
@@ -4989,7 +4989,7 @@
       "first_date": "2021-06-17",
       "first_docket": "19-416",
       "count": 2,
-      "is_new": true
+      "is_new": false
     },
     "Alito,Barrett,Kavanaugh,Roberts": {
       "dissenters": [
@@ -5002,7 +5002,7 @@
       "first_date": "2021-06-10",
       "first_docket": "19-5410",
       "count": 1,
-      "is_new": true
+      "is_new": false
     },
     "Alito,Kavanaugh,Roberts": {
       "dissenters": [
@@ -5014,7 +5014,7 @@
       "first_date": "2021-04-29",
       "first_docket": "19-863",
       "count": 1,
-      "is_new": true
+      "is_new": false
     },
     "Alito,Thomas": {
       "dissenters": [
@@ -5025,7 +5025,7 @@
       "first_date": "2021-04-05",
       "first_docket": "18-956",
       "count": 5,
-      "is_new": true
+      "is_new": false
     },
     "Alito,Gorsuch,Thomas": {
       "dissenters": [
@@ -5037,7 +5037,7 @@
       "first_date": "2021-03-25",
       "first_docket": "19-292",
       "count": 11,
-      "is_new": true
+      "is_new": false
     },
     "Roberts": {
       "dissenters": [
@@ -5047,7 +5047,7 @@
       "first_date": "2021-03-08",
       "first_docket": "19-968",
       "count": 1,
-      "is_new": true
+      "is_new": false
     },
     "Kagan,Sotomayor": {
       "dissenters": [
@@ -5058,7 +5058,7 @@
       "first_date": "2021-03-04",
       "first_docket": "19-438",
       "count": 14,
-      "is_new": true
+      "is_new": false
     },
     "Sotomayor": {
       "dissenters": [
@@ -5068,7 +5068,7 @@
       "first_date": "2021-03-04",
       "first_docket": "19-547",
       "count": 6,
-      "is_new": true
+      "is_new": false
     },
     "Alito,Barrett,Gorsuch,Thomas": {
       "dissenters": [
@@ -5081,7 +5081,7 @@
       "first_date": "2021-02-03",
       "first_docket": "19-199",
       "count": 6,
-      "is_new": true
+      "is_new": false
     },
     "Kagan": {
       "dissenters": [
@@ -5091,7 +5091,7 @@
       "first_date": "2020-12-18",
       "first_docket": "20-366",
       "count": 1,
-      "is_new": true
+      "is_new": false
     },
     "Kagan,Roberts,Sotomayor": {
       "dissenters": [
@@ -5103,7 +5103,7 @@
       "first_date": "2020-11-25",
       "first_docket": "20A87",
       "count": 1,
-      "is_new": true
+      "is_new": false
     },
     "Alito,Gorsuch": {
       "dissenters": [
@@ -5114,7 +5114,7 @@
       "first_date": "",
       "first_docket": "23-7483",
       "count": 4,
-      "is_new": true
+      "is_new": false
     },
     "KBJ,Kagan,Sotomayor": {
       "dissenters": [
@@ -5126,7 +5126,7 @@
       "first_date": "",
       "first_docket": "22-1219",
       "count": 17,
-      "is_new": true
+      "is_new": false
     },
     "Alito,Roberts,Thomas": {
       "dissenters": [
@@ -5138,7 +5138,7 @@
       "first_date": "",
       "first_docket": "19-783",
       "count": 3,
-      "is_new": true
+      "is_new": false
     }
   },
   "agreement_matrix": {
@@ -5245,105 +5245,105 @@
   "interesting_facts": [
     {
       "type": "first_pair_dissent",
-      "is_new": true,
+      "is_new": false,
       "text": "First time Alito and Gorsuch are sole dissenters on a case, they agree 86% of the time \u2014 Esteras v. United States",
       "case": "Esteras v. United States",
       "date": ""
     },
     {
       "type": "sole_dissent",
-      "is_new": true,
+      "is_new": false,
       "text": "First time Kagan is the sole dissenter \u2014 Trump v. New York",
       "case": "Trump v. New York",
       "date": "2020-12-18"
     },
     {
       "type": "first_pair_dissent",
-      "is_new": true,
+      "is_new": false,
       "text": "First time Kagan and Sotomayor are sole dissenters on a case, they agree 93% of the time \u2014 Pereida v. Wilkinson",
       "case": "Pereida v. Wilkinson",
       "date": "2021-03-04"
     },
     {
       "type": "sole_dissent",
-      "is_new": true,
+      "is_new": false,
       "text": "First time Sotomayor is the sole dissenter \u2014 U.S. Fish and Wildlife Service v. Sierra Club",
       "case": "U.S. Fish and Wildlife Service v. Sierra Club",
       "date": "2021-03-04"
     },
     {
       "type": "sole_dissent",
-      "is_new": true,
+      "is_new": false,
       "text": "First time Roberts is the sole dissenter \u2014 Uzuegbunam v. Preczewski",
       "case": "Uzuegbunam v. Preczewski",
       "date": "2021-03-08"
     },
     {
       "type": "first_pair_dissent",
-      "is_new": true,
+      "is_new": false,
       "text": "First time Alito and Thomas are sole dissenters on a case, they agree 87% of the time \u2014 Google LLC v. Oracle America Inc.",
       "case": "Google LLC v. Oracle America Inc.",
       "date": "2021-04-05"
     },
     {
       "type": "sole_dissent",
-      "is_new": true,
+      "is_new": false,
       "text": "First time Alito is the sole dissenter \u2014 Nestl\u00e9 USA, Inc. v. Doe I",
       "case": "Nestl\u00e9 USA, Inc. v. Doe I",
       "date": "2021-06-17"
     },
     {
       "type": "sole_dissent",
-      "is_new": true,
+      "is_new": false,
       "text": "First time Thomas is the sole dissenter \u2014 Mahanoy Area School District v. B.L.",
       "case": "Mahanoy Area School District v. B.L.",
       "date": "2021-06-23"
     },
     {
       "type": "sole_dissent",
-      "is_new": true,
+      "is_new": false,
       "text": "First time Gorsuch is the sole dissenter \u2014 Babcock v. Kijakazi",
       "case": "Babcock v. Kijakazi",
       "date": "2022-01-13"
     },
     {
       "type": "first_pair_dissent",
-      "is_new": true,
+      "is_new": false,
       "text": "First time Gorsuch and Sotomayor are sole dissenters on a case, they agree 63% of the time \u2014 United States v. Zubaydah",
       "case": "United States v. Zubaydah",
       "date": "2022-03-03"
     },
     {
       "type": "first_pair_dissent",
-      "is_new": true,
+      "is_new": false,
       "text": "First time Kagan and Roberts are sole dissenters on a case, they agree 74% of the time \u2014 Andy Warhol Foundation for the Visual Arts, Inc. v. Goldsmith",
       "case": "Andy Warhol Foundation for the Visual Arts, Inc. v. Goldsmith",
       "date": "2023-05-18"
     },
     {
       "type": "sole_dissent",
-      "is_new": true,
+      "is_new": false,
       "text": "First time KBJ is the sole dissenter \u2014 Glacier Northwest, Inc. v. International Brotherhood of Teamsters",
       "case": "Glacier Northwest, Inc. v. International Brotherhood of Teamsters",
       "date": "2023-06-01"
     },
     {
       "type": "first_pair_dissent",
-      "is_new": true,
+      "is_new": false,
       "text": "First time KBJ and Sotomayor are sole dissenters on a case, they agree 92% of the time \u2014 United States v. Hansen",
       "case": "United States v. Hansen",
       "date": "2023-06-23"
     },
     {
       "type": "first_pair_dissent",
-      "is_new": true,
+      "is_new": false,
       "text": "First time Barrett and Thomas are sole dissenters on a case, they agree 83% of the time \u2014 Counterman v. Colorado",
       "case": "Counterman v. Colorado",
       "date": "2023-06-27"
     },
     {
       "type": "first_pair_dissent",
-      "is_new": true,
+      "is_new": false,
       "text": "First time Gorsuch and Thomas are sole dissenters on a case, they agree 83% of the time \u2014 Moore v. United States",
       "case": "Moore v. United States",
       "date": "2024-06-20"
