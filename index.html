@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SCOTUS Scoragami — Unique Voting Coalitions</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- ═══════════════════════ HEADER ═══════════════════════ -->
+  <header>
+    <div class="header-inner">
+      <div class="header-title">
+        <span class="gavel">⚖️</span>
+        <div>
+          <h1>SCOTUS Scoragami</h1>
+          <p class="tagline">Tracking every unique voting coalition on the Supreme Court</p>
+        </div>
+      </div>
+      <div id="last-updated" class="last-updated"></div>
+    </div>
+  </header>
+
+  <!-- ═══════════════════════ STATS BAR ═══════════════════════ -->
+  <section class="stats-bar" id="stats-bar">
+    <div class="stat-card">
+      <span class="stat-value" id="stat-cases">—</span>
+      <span class="stat-label">Cases Analyzed</span>
+    </div>
+    <div class="stat-card">
+      <span class="stat-value" id="stat-coalitions">—</span>
+      <span class="stat-label">Unique Dissent Coalitions</span>
+    </div>
+    <div class="stat-card">
+      <span class="stat-value" id="stat-unanimous">—</span>
+      <span class="stat-label">Unanimous Decisions</span>
+    </div>
+    <div class="stat-card" id="stat-common-card">
+      <span class="stat-value" id="stat-common">—</span>
+      <span class="stat-label">Most Common Dissent</span>
+    </div>
+  </section>
+
+  <main>
+
+    <!-- ═══════════════════════ SCORAGAMI MOMENTS ═══════════════════════ -->
+    <section class="section" id="scoragami-section">
+      <h2 class="section-title">
+        <span class="section-icon">🎉</span>
+        Scoragami Moments
+        <span class="section-subtitle">First-ever unique voting coalitions</span>
+      </h2>
+
+      <div class="filter-row">
+        <label>
+          Show:
+          <select id="fact-filter">
+            <option value="all">All facts</option>
+            <option value="first_pair_dissent">First pair dissenters</option>
+            <option value="sole_dissent">Sole dissenters</option>
+            <option value="most_agree">Agreement stats</option>
+          </select>
+        </label>
+      </div>
+
+      <div class="facts-grid" id="facts-grid">
+        <div class="loading-spinner"></div>
+      </div>
+    </section>
+
+    <!-- ═══════════════════════ AGREEMENT MATRIX ═══════════════════════ -->
+    <section class="section" id="matrix-section">
+      <h2 class="section-title">
+        <span class="section-icon">📊</span>
+        Justice Agreement Matrix
+        <span class="section-subtitle">How often each pair votes on the same side</span>
+      </h2>
+
+      <div class="matrix-legend">
+        <div class="legend-gradient"></div>
+        <div class="legend-labels">
+          <span>Rarely agree</span>
+          <span>Often agree</span>
+        </div>
+      </div>
+
+      <div class="matrix-wrapper">
+        <table class="matrix-table" id="matrix-table">
+          <tbody></tbody>
+        </table>
+      </div>
+
+      <p class="matrix-note">Click any cell to see cases where this pair voted together.</p>
+    </section>
+
+    <!-- ═══════════════════════ COALITION EXPLORER ═══════════════════════ -->
+    <section class="section" id="coalitions-section">
+      <h2 class="section-title">
+        <span class="section-icon">🗳️</span>
+        Dissent Coalition Explorer
+        <span class="section-subtitle">Every unique dissent configuration and its history</span>
+      </h2>
+
+      <div class="filter-row">
+        <label>
+          Filter:
+          <input type="text" id="coalition-search" placeholder="e.g. Thomas, Alito…" />
+        </label>
+        <label>
+          Sort:
+          <select id="coalition-sort">
+            <option value="count">Most frequent</option>
+            <option value="recent">Most recent</option>
+            <option value="rare">Rarest first</option>
+            <option value="date_asc">Chronological</option>
+          </select>
+        </label>
+      </div>
+
+      <div class="coalition-list" id="coalition-list">
+        <div class="loading-spinner"></div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ═══════════════════════ DETAIL MODAL ═══════════════════════ -->
+  <div class="modal-backdrop" id="modal-backdrop" hidden>
+    <div class="modal" role="dialog" aria-modal="true">
+      <button class="modal-close" id="modal-close" aria-label="Close">✕</button>
+      <div id="modal-content"></div>
+    </div>
+  </div>
+
+  <footer>
+    <p>Data sourced from <a href="https://www.oyez.org" target="_blank" rel="noopener">Oyez</a> via the Oyez API. Updated daily by GitHub Actions.</p>
+    <p>Inspired by <a href="https://nflscorigami.com" target="_blank" rel="noopener">NFL Scorigami</a>.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
